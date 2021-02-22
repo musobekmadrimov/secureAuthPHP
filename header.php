@@ -1,6 +1,6 @@
-<?php include_once('app/config.php') ?>
 <!DOCTYPE html>
 <html lang="en">
+<?php include_once('app/config.php'); include_once('app/functions.php')?>
 
 <head>
     <meta charset="UTF-8">
